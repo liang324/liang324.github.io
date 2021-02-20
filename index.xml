@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DU Liang</title>
+    <link>https://liang324.github.io/</link>
+      <atom:link href="https://liang324.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>DU Liang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 liang324</copyright><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liang324.github.io/images/icon_huafd8ec2e798752a6b5e4c81251c6512c_20750_512x512_fill_lanczos_center_2.png</url>
+      <title>DU Liang</title>
+      <link>https://liang324.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Next stage with SHU</title>
+      <link>https://liang324.github.io/post/21-01-29-next-stage/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/post/21-01-29-next-stage/</guid>
+      <description>&lt;p&gt;Dr. DU Liang has got a job offer as lecturer from the Shanghai University.&lt;/p&gt;
+&lt;p&gt;Dr. DU Liang is expected to finish his contract with the R-GIRO program in Ritsumeikan University, Japan by this March. Now, he got a new job offer as lecturer from the Shanghai University, Shanghai, China. He will work with the Shanghai Key Laboratory of Intelligent Manufacturing and Robotics, School of Mechatronic Engineering and Automation after returning China.&lt;/p&gt;
+&lt;p&gt;Shanghai University (commonly referred to as SHU, or colloquially Shangda (Chinese: 上大; pinyin: Shàngdà)) is a public research university located in Shanghai. The 555-acre main Baoshan campus is situated in the north of Shanghai, and there are two other campuses in Jiading and Jing&amp;rsquo;an. Shanghai University is amongst the list of Project 211 for top national universities. &lt;a href=&#34;https://en.wikipedia.org/wiki/Shanghai_University&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(cited from Wikipedia)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Shanghai Key Laboratory of Intelligent Manufacturing and Robotics is one famous research team in robot field in China. Their research includes industrial automation, robots for health care, robots for farming, and basic robotic theories.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy New Year 2021</title>
+      <link>https://liang324.github.io/post/20-12-31-happy-new-year/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/post/20-12-31-happy-new-year/</guid>
+      <description>&lt;p&gt;Farewell 2020 and Happy New Year 2021&lt;/p&gt;
+&lt;p&gt;It is a difficulty year for almost everyone. The way we live and work has been completely changed. It is very likely that this new life-style, the post-covid era, will continue even when it all ends. However, this pandemic is also a valuable experience for everyone of us. It is only under such huge challenge that we discover the true meaning of life. We found that the most precious gift is our beloved ones. We found that we can develop new technologies to fight the great enemy of mankind. We found that if you try this new life, you may get new inspirations and new progresses.&lt;/p&gt;
+&lt;p&gt;Whatever, now we can say &lt;em&gt;Farewell 2020 and Happy New Year 2021&lt;/em&gt;. I hope all my friends will bring good luck to their lives.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Robotic Gripper Design and Integrated Solution Towards Tunnel Boring Construction Equipment</title>
+      <link>https://liang324.github.io/publication/yuan2020robotic/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/yuan2020robotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion-weighted imaging in hypertrophic cardiomyopathy: association with high T2-weighted signal intensity in addition to late gadolinium enhancement</title>
+      <link>https://liang324.github.io/publication/shi2020diffusion/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/shi2020diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and experimental tests of an active cooling system for a kind of in-vessel inspection manipulator</title>
+      <link>https://liang324.github.io/publication/du2020design/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/du2020design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Made Grippers for Soft Food Grasping</title>
+      <link>https://liang324.github.io/publication/ma2020made/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/ma2020made/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underground Disc-cutter Replacement Robot for Tunnel Boring Machine</title>
+      <link>https://liang324.github.io/project/2018-tbm/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/project/2018-tbm/</guid>
+      <description>&lt;p&gt;Specialized robot that helps release humans from dangerous TBM maintenance works underground.&lt;/p&gt;
+&lt;p&gt;Tunnel Boring Machine (TBM) is a kind of specialized engineering machine for excavating underground tunnels. The modern TBMs are technology-intensive systems that can perform various comprehensive tasks such as tunnel boring, excavated material removal and tunnel structure supporting at the same time, which greatly improves the overall project efficiency, quality and safety. The cutting head part of a shield TBM is specialized for underground hard rock material tunneling (see the featured figure).&lt;/p&gt;
+&lt;p&gt;The disc cutters, arranged at the forefront cutting head part of the TBM, are the main cutting tools for cutting hard rock materials. The disc cutters are pressed onto the cutting surface with enough force so that the rock structure will crash as a result. As the cutting head rotates, the disc cutters will rotate round its own shaft and move along circle path on the cutting surface at the same time to form an even full-surface cutting result. The disc cutters will endure large working load to meet the rock crushing result, and they work in a complex extreme situation underground, with high pressure, high humidity and high temperature, so that the disc cutter worn-out and faulty is quite often during the boring process, which may affect the work efficiency and quality or even endanger the TBM system. Therefore, the regular replacement of the worn/damaged disc cutter in time is crucial for the normal running of the TBM machine, maintaining high operation productivity and keeping the system safety.&lt;/p&gt;
+&lt;p&gt;This project aims develop unmanned robot that can help release humans from dangerous TBM maintenance works underground.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A teleoperated robotic hot stick platform for the overhead live powerline maintenance tasks</title>
+      <link>https://liang324.github.io/publication/du2019teleoperated/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/du2019teleoperated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-vessel Maintenance Robot for Tokamak</title>
+      <link>https://liang324.github.io/project/2015-east/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/project/2015-east/</guid>
+      <description>&lt;p&gt;A robot that works inside Tokamak, an experimental device for nuclear fusion research.&lt;/p&gt;
+&lt;p&gt;Tokamak is the experiment device for controlled nuclear fusion research, which employs magnetic field to confine the high energy plasma in its toroidal vessel for nuclear fusion activities. The first wall structure of the toroidal vessel is directly exposed to high energy plasma during the experiment and may get damaged after several cycles of plasma discharge experiments. This is a severe threat to the research, and it could affect the safety of the whole Tokamak system. Therefore, to keep the high energy plasma research work continuable and safe, it is necessary to conduct regular inspection operation of the toroidal vessel during the experiment intervals.&lt;/p&gt;
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-caption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://liang324.github.io/project/2015-east/image_hue13f86c42d2d217e73c10905bdb871e0_877638_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://liang324.github.io/project/2015-east/image_hue13f86c42d2d217e73c10905bdb871e0_877638_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1950&#34; height=&#34;796&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A caption
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Based on the existing in-vessel operation solutions, this project developed an arcuate spreading-arm featured manipulator (see the figure attached) for the Experimental Advanced Superconducting Tokamak (the first superconducting Tokamak in China). The manipulator is made up with four main parts, which are the deployment platform, the arcuate spreading big arm, the planar small arm and the end effector. It can be deployed from the narrow entrance window of the toroidal vessel, can cover the large toroidal vessel workspace, and can adapt to the complex geometry constrains of the D-shape section place in toroidal vessel. A manipulator prototype was manufactured and tested in the EAST toroidal vessel mock-up to validate the overall in-vessel operation process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design of a standalone joint module toward real EAST in-vessel operation use</title>
+      <link>https://liang324.github.io/publication/du2017design/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/du2017design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active cooling system for Tokamak in-vessel operation manipulator</title>
+      <link>https://liang324.github.io/publication/yuan2015active/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/yuan2015active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://liang324.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://liang324.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

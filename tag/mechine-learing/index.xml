@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechine Learing | DU Liang</title>
+    <link>https://liang324.github.io/tag/mechine-learing/</link>
+      <atom:link href="https://liang324.github.io/tag/mechine-learing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mechine Learing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 liang324</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liang324.github.io/images/icon_huafd8ec2e798752a6b5e4c81251c6512c_20750_512x512_fill_lanczos_center_2.png</url>
+      <title>Mechine Learing</title>
+      <link>https://liang324.github.io/tag/mechine-learing/</link>
+    </image>
+    
+    <item>
+      <title>Diffusion-weighted imaging in hypertrophic cardiomyopathy: association with high T2-weighted signal intensity in addition to late gadolinium enhancement</title>
+      <link>https://liang324.github.io/publication/shi2020diffusion/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/shi2020diffusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

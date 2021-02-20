@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CHEN Tan | DU Liang</title>
+    <link>https://liang324.github.io/author/chen-tan/</link>
+      <atom:link href="https://liang324.github.io/author/chen-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>CHEN Tan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 liang324</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liang324.github.io/images/icon_huafd8ec2e798752a6b5e4c81251c6512c_20750_512x512_fill_lanczos_center_2.png</url>
+      <title>CHEN Tan</title>
+      <link>https://liang324.github.io/author/chen-tan/</link>
+    </image>
+    
+    <item>
+      <title>Design of a standalone joint module toward real EAST in-vessel operation use</title>
+      <link>https://liang324.github.io/publication/du2017design/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/du2017design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active cooling system for Tokamak in-vessel operation manipulator</title>
+      <link>https://liang324.github.io/publication/yuan2015active/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/yuan2015active/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

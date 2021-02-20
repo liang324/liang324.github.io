@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robot | DU Liang</title>
+    <link>https://liang324.github.io/author/robot/</link>
+      <atom:link href="https://liang324.github.io/author/robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 liang324</copyright>
+    <image>
+      <url>https://liang324.github.io/author/robot/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Robot</title>
+      <link>https://liang324.github.io/author/robot/</link>
+    </image>
+    
+  </channel>
+</rss>

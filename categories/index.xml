@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | DU Liang</title>
+    <link>https://liang324.github.io/categories/</link>
+      <atom:link href="https://liang324.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 liang324</copyright>
+    <image>
+      <url>https://liang324.github.io/images/icon_huafd8ec2e798752a6b5e4c81251c6512c_20750_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://liang324.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

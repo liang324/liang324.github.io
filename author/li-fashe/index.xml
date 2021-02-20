@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LI Fashe | DU Liang</title>
+    <link>https://liang324.github.io/author/li-fashe/</link>
+      <atom:link href="https://liang324.github.io/author/li-fashe/index.xml" rel="self" type="application/rss+xml" />
+    <description>LI Fashe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 liang324</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liang324.github.io/images/icon_huafd8ec2e798752a6b5e4c81251c6512c_20750_512x512_fill_lanczos_center_2.png</url>
+      <title>LI Fashe</title>
+      <link>https://liang324.github.io/author/li-fashe/</link>
+    </image>
+    
+    <item>
+      <title>Active cooling system for Tokamak in-vessel operation manipulator</title>
+      <link>https://liang324.github.io/publication/yuan2015active/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://liang324.github.io/publication/yuan2015active/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
